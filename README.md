@@ -16,7 +16,7 @@ Se implementó el diagrama de flujo de usuario previamente establecido, por medi
 [Prototipo de Figma](https://www.figma.com/design/oHtjJnf8dWPjS2KFlS7BmW/Kduco-Mockup?node-id=0-1&t=RPlxOZPuU4kdlZEP-1)
 
 ## Enlace al Mockup en Figma
-[Mockup de Figma] (https://www.figma.com/design/jLd4wdxwtbdHIu34PNmhfV/Kduco-Mockup?node-id=0-1&t=VjSsWVgiufVB1CIf-1)
+[Mockup de Figma](https://www.figma.com/design/jLd4wdxwtbdHIu34PNmhfV/Kduco-Mockup?node-id=0-1&t=VjSsWVgiufVB1CIf-1)
 
 ## Enlace al Wireframe en Figma
-[Wireframe de Figma] (https://www.figma.com/design/yLsajPpUn63zq0y3v8d0Qn/Kduco-Wireframe?node-id=0-1&t=j7soCy0MXrGRslpc-1)
+[Wireframe de Figma](https://www.figma.com/design/yLsajPpUn63zq0y3v8d0Qn/Kduco-Wireframe?node-id=0-1&t=j7soCy0MXrGRslpc-1)
