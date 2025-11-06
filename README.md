@@ -1,4 +1,3 @@
-<img width="718" height="48" alt="image" src="https://github.com/user-attachments/assets/2bd1b0c0-4cd4-4545-a7d2-47e4f6dc3725" /># diseno_ui
 Repositorio que contiene el progreso del desarrollo de la UI utilizada en la aplicación del equipo Kduco
 
 ## Reportes de progreso
